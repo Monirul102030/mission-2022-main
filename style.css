@@ -1,0 +1,133 @@
+body{
+    
+    font-family: 'Roboto', sans-serif;
+}
+.orange-color{
+    color: aquamarine;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    
+    
+}
+
+.border-line{
+    padding-left: 20px;
+    border-left: 5px solid rgb(214, 104, 13);
+}
+.half-width img{
+    width: 70%;
+    padding-left: 10%;
+
+}
+
+.flexible-container {
+    display: flex;
+    padding-left: 4%;
+    padding-bottom: 5%;
+}
+
+h1{
+    font-size: 40px;
+    padding-left: 20px;
+}
+
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    padding: 8px 30px;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(255, 166, 0),rgb(179, 9, 46));
+    border-radius: 5px;
+
+}
+.divided-3{
+    width: 30%;
+    background-color: rgb(61, 147, 228);
+    margin-left: 2%;
+    border-radius: 10px;
+}
+.divided-3 img{
+    width: 50%;
+}
+.divided-3 p{
+    padding-left: 2%;
+}
+.divided-3 h3{
+    padding-left: 3%;
+}
+.last-div{
+    background-color: lightcoral;
+}
+.second-div{
+    background-color: lightgreen;
+}
+
+.mission h1{ 
+    text-align: center;
+    color: black;
+}
+.orange{
+    color: lightsalmon;
+}
+.develop {
+background-image: url(images/shapes/shape-1.png);
+background-repeat: no-repeat;
+background-size: 20%;
+;
+
+}
+.community{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:  bottom right;
+    background-size: 30%;
+}
+.application{
+    text-align: center;
+}
+h2{
+    margin-top: 0%;
+    font-size: 30px;
+
+}
+.half-width-3 img{
+    width: 87%;
+}
+.half-width-3{
+    width: 50%;
+}
+.flexible-container p{
+    font-size: 20px;
+}
+.footer-text{
+    text-align: right;
+    color: white;
+    padding-right: 40px;
+}
+.footer-text h1{
+    padding-right: 60px;
+
+}
+.footer-text p{
+    padding-top: 0%;
+}
+.footer-area{
+    width: 100%;
+    height: 40%;
+    background-color:black;
+}
+
+
+
+
+
+
+    
+    
+
+
+
+
